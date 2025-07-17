@@ -1,1 +1,2 @@
-len("Hello")
+
+print(len(" hi"))
